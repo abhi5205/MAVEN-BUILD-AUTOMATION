@@ -1,5 +1,8 @@
 # 🚀 Build Automation using Maven
 
+[![Java CI with Maven](https://github.com/abhi5205/MAVEN-BUILD-AUTOMATION/actions/workflows/maven.yml/badge.svg)](https://github.com/abhi5205/MAVEN-BUILD-AUTOMATION/actions/workflows/maven.yml)
+
+
 ## 📌 Objective
 To automate the build process of a Java application using Maven.
 

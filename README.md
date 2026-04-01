@@ -3,6 +3,7 @@
 [![Java CI with Maven](https://github.com/abhi5205/MAVEN-BUILD-AUTOMATION/actions/workflows/maven.yml/badge.svg)](https://github.com/abhi5205/MAVEN-BUILD-AUTOMATION/actions/workflows/maven.yml)
 
 
+
 ## 📌 Objective
 To automate the build process of a Java application using Maven.
 
@@ -24,6 +25,12 @@ mvn clean install
 
 ## ✅ Result
 Build Successful 🎉
+
+## 🔥 Features
+- Automated build using Maven
+- Dependency management
+- Executable JAR generation
+- Containerized using Docker
 
 ## 💡 Learning
 - Maven lifecycle (clean, compile, test, package, install)

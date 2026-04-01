@@ -38,5 +38,12 @@ Build Successful 🎉
 - Build automation basics
 
 ## 🚀 Future Scope
-- Integrate CI/CD pipeline
-- Dockerize the application
+This project can be further enhanced with advanced DevOps practices:
+
+- 🌐 Deploy the application on cloud platforms like AWS or Render
+- ☸️ Orchestrate containers using Kubernetes for scalability and high availability
+- 📊 Implement monitoring and visualization using Prometheus and Grafana
+- 🔐 Integrate security scanning tools in CI/CD pipeline (DevSecOps)
+- 🔁 Extend CI/CD pipeline for automated deployment (CD)
+
+These improvements will transform this project into a complete production-grade DevOps pipeline.
